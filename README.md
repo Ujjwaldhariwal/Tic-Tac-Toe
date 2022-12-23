@@ -2,6 +2,6 @@
 
 https://kaanta-jero.netlify.app
 
-![preview img](/screenshot.png)
+![preview img](/Screenshot.png)
 
 # Tic-Tac-Toe
